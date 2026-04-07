@@ -1,8 +1,8 @@
 from yandex_music import Client
 from YM__client_token import token
 
-token = token
-client = Client(token).init()
+TOKEN = token
+client = Client(TOKEN).init()
 client.request._timeout = 60
 
 track_list = []
