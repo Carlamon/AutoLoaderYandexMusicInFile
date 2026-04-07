@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+pyproject.toml
+.python-version
+uv.lock 
+YM__client_token.py 
+YM__client_token
+
+music/
+music 
