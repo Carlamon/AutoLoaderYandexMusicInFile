@@ -1,0 +1,3 @@
+yandex-music
+pygame
+mutagen
